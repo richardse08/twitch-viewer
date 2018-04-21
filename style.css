@@ -1,7 +1,7 @@
 body {
     background-color: #8d8d74;
-    margin-left: 75px;
-    margin-right: 75px;
+    margin-left: 100px;
+    margin-right: 100px;
     margin-top: 50px;
 }
 
@@ -9,18 +9,21 @@ body {
     border-width: 15px;
     width: 100%;
 }
+
 h1 {
     color: #c9dede;
     text-align: center;
     font-size: 36px;
     font-family: lobster;
 }
+
 .main-text {
     color: #c9dede;
     font-size: 16px;
     font-family: Monospace;
     
 }
+
 .myresult {
     border: solid;
     margin-top: 25px;
